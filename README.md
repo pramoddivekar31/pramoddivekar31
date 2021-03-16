@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramoddivekar31
 - 👀 I’m interested in JavaScript/Angular/Front End Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS/NodeJs
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me pramoddivekar31@gmail.com
 
